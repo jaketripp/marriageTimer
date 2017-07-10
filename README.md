@@ -1,2 +1,2 @@
-# portfolio
-The code for my [personal portfolio website](https://jaketripp.github.io/portfolio/)
+# Marriage Timer
+This a very rudimentary timer until my older brother's wedding. [Check it out](https://jaketripp.github.io/marriageTimer/).
