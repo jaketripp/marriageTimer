@@ -50,7 +50,7 @@ function updateDom(){
     }, 1000);
 	setInterval(function(){
 		var marriageDate = new Date(2017, 6, 20, 11);
-		var currentDate = new Date();
+		var currentDate = Date.now();
 		var seconds = (currentDate - marriageDate); 
 		var time = formatTime(seconds);
 		$('h2').text(time);
